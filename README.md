@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahinur Kabir</h1>
-<h3 align="center">a passionate backend develop from Dhana, Bangladesh</h3>
+<h3 align="center">a passionate backend developer based on Dhaka, Bangladesh</h3>
 
 - 🔭 I’m currently working on [MeetMe](https://github.com/shahinurkabir/MeetMe)
 
