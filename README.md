@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahinurkabir](https://github.com/shahinurkabir)
 
-- 💬 Ask me about **.Net Core,SQL Server,Angular,PrimeNG**
+- 💬 Ask me about ** software architecture & system design, .Net Core, SQL Server, Angular, PrimeNG**
 
 - 📫 How to reach me **shahinurkabir@yaoo.com**
 
