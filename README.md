@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MeetMe](https://github.com/shahinurkabir/MeetMe)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahinurkabir/shahinurkabir](https://github.com/shahinurkabir/shahinurkabir)
+- 👨‍💻 All of my projects are available at [https://github.com/shahinurkabir](https://github.com/shahinurkabir)
 
 - 💬 Ask me about **.Net Core,SQL Server,Angular,PrimeNG**
 
